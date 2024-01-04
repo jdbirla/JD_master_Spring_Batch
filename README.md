@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/69948118/216743479-f7a038fe-b109-4c78-a879-aa6247d85243.png)
 ![image](https://user-images.githubusercontent.com/69948118/216746186-f784c5c7-f4ec-4536-9f2c-e57000e58277.png)
 ![image](https://github.com/jdbirla/JD_master_Spring_Batch/assets/69948118/0e753538-0667-448a-a710-2abde74c62e0)
+![image](https://github.com/jdbirla/JD_master_Spring_Batch/assets/69948118/acbd2de7-9e9b-4923-a883-42f2ac048de4)
 
 
 
