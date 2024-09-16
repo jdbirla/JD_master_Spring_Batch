@@ -1,0 +1,2 @@
+# Batch Processing of Data with Java Spring Framework & MySQL. Item Reader, Item Writer, Item Processor & JPA Reader
+- https://precisely.udemy.com/course/data-batch-processing-with-spring-batch-spring-boot-spring-framework/learn/lecture/29349092#overview
